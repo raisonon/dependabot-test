@@ -1,0 +1,8 @@
+{
+  "name": "raisonon/dependabot-test",
+  "description": "test",
+  "require": {
+    "guzzlehttp/guzzle": "^6.0.1"
+  },
+  "minimum-stability": "stable"
+}
