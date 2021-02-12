@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ini": "^1.2.8",
-    "laravel-mix": "^4.0.2",
+    "ini": "^1.1.0",
+    "laravel-mix": "^3.0.2",
     "mixin-deep": "^1.1.0"
   }
 }
